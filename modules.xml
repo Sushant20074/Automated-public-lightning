@@ -5,5 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StreetLight.iml" filepath="$PROJECT_DIR$/.idea/modules/StreetLight.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StreetLight.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StreetLight.app.iml" />
     </modules>
-  </component>
+  </component> 
+
 </project>
